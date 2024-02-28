@@ -1,3 +1,4 @@
 git add .
 git commit .m "congrats!"
 git push
+#define CRT_SECURE_NO_WARNINGS
